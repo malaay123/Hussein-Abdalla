@@ -1,13 +1,13 @@
-# Hussein-Abdalla
-Welcome to My Page
+# About - me
+# welcome to my Page
 
-Personal Info:
-	Name: Hussein Abdullahi 
-	Email: thewayofdoing@gmail.com
-	Location: Mogadishu, Somalia
+# Personal Info:
+   Name: Hussein Abdullahi 
+   Email: thewayofdoing@gmail.com
+   Location: Mogadishu, Somalia
 
-Academic Info: 
+# Academic Info 
 Education: 
-	Ms in Industrial design engineering at Zhejiang University
-	Bsc in Petroleum Engineering at Somaville University
+   Ms in Industrial design engineering at Zhejiang University
+   Bsc in Petroleum Engineering at Somaville University
 
