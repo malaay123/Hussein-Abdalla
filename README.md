@@ -21,7 +21,11 @@ Talented,dynamic and self - driven engineering professional with an extensive an
    
    # Core Skills
    Analytical skills
+   
    complex Problem solving skills
+   
    Strong science and computing knowledge
+   
    Petrel Softwre
+   
    Teamwork
