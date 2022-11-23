@@ -3,7 +3,9 @@
 
 # Personal Info:
  Name: Hussein Abdullahi 
-   
+ 
+ Tell: +252615765601
+ 
  Email: thewayofdoing@gmail.com
    
  Location: Mogadishu, Somalia
