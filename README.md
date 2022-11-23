@@ -1,2 +1,13 @@
 # Hussein-Abdalla
-Hello, my name is Hussein Abdullahi and i am one of IDE students
+Welcome to My Page
+
+Personal Info:
+	Name: Hussein Abdullahi 
+	Email: thewayofdoing@gmail.com
+	Location: Mogadishu, Somalia
+
+Academic Info: 
+Education: 
+	Ms in Industrial design engineering at Zhejiang University
+	Bsc in Petroleum Engineering at Somaville University
+
