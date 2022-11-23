@@ -16,3 +16,4 @@
    
    Bsc in Petroleum Engineering at Somaville University
 
+   Diploma in Project Managment at Alison
