@@ -18,3 +18,10 @@ Talented,dynamic and self - driven engineering professional with an extensive an
    Bsc in Petroleum Engineering at Somaville University
 
    Diploma in Project Managment at Alison
+   
+   # Core Skills
+   Analytical skills
+   complex Problem solving skills
+   Strong science and computing knowledge
+   Petrel Softwre
+   Teamwork
