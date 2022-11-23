@@ -2,11 +2,11 @@
 # welcome to my Page
 
 # Personal Info:
-   Name: Hussein Abdullahi 
+ Name: Hussein Abdullahi 
    
-   Email: thewayofdoing@gmail.com
+ Email: thewayofdoing@gmail.com
    
-   Location: Mogadishu, Somalia
+ Location: Mogadishu, Somalia
 
 # Academic Info 
 Education: 
