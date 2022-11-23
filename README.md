@@ -1,5 +1,6 @@
-# About - me
-# welcome to my Page
+# Welcome to My Page
+# summary
+Talented,dynamic and self - driven engineering professional with an extensive and extraodinary knowledge of petroleum engineering. i have been working for 3 years for educational sector. 
 
 # Personal Info:
  Name: Hussein Abdullahi 
